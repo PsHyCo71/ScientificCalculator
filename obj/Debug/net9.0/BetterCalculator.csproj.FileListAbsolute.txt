@@ -1,0 +1,14 @@
+c:\Users\utente\Documents\Francesco\Coding\Progetti\BetterCalculator\bin\Debug\net9.0\BetterCalculator.exe
+c:\Users\utente\Documents\Francesco\Coding\Progetti\BetterCalculator\bin\Debug\net9.0\BetterCalculator.deps.json
+c:\Users\utente\Documents\Francesco\Coding\Progetti\BetterCalculator\bin\Debug\net9.0\BetterCalculator.runtimeconfig.json
+c:\Users\utente\Documents\Francesco\Coding\Progetti\BetterCalculator\bin\Debug\net9.0\BetterCalculator.dll
+c:\Users\utente\Documents\Francesco\Coding\Progetti\BetterCalculator\bin\Debug\net9.0\BetterCalculator.pdb
+c:\Users\utente\Documents\Francesco\Coding\Progetti\BetterCalculator\obj\Debug\net9.0\BetterCalculator.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\utente\Documents\Francesco\Coding\Progetti\BetterCalculator\obj\Debug\net9.0\BetterCalculator.AssemblyInfoInputs.cache
+c:\Users\utente\Documents\Francesco\Coding\Progetti\BetterCalculator\obj\Debug\net9.0\BetterCalculator.AssemblyInfo.cs
+c:\Users\utente\Documents\Francesco\Coding\Progetti\BetterCalculator\obj\Debug\net9.0\BetterCalculator.csproj.CoreCompileInputs.cache
+c:\Users\utente\Documents\Francesco\Coding\Progetti\BetterCalculator\obj\Debug\net9.0\BetterCalculator.dll
+c:\Users\utente\Documents\Francesco\Coding\Progetti\BetterCalculator\obj\Debug\net9.0\refint\BetterCalculator.dll
+c:\Users\utente\Documents\Francesco\Coding\Progetti\BetterCalculator\obj\Debug\net9.0\BetterCalculator.pdb
+c:\Users\utente\Documents\Francesco\Coding\Progetti\BetterCalculator\obj\Debug\net9.0\BetterCalculator.genruntimeconfig.cache
+c:\Users\utente\Documents\Francesco\Coding\Progetti\BetterCalculator\obj\Debug\net9.0\ref\BetterCalculator.dll
