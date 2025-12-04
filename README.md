@@ -1,5 +1,5 @@
 # ScientificCalculator
-Multi-mode calculator, does basic operations, scientic operations and grade calculation
+Multi-mode calculator, does basic operations, advanced operations and grade calculation
 
 After launching choose one of three modes
 -first mode does basics operations (+, -, *, /)
