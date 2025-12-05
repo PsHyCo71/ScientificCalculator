@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 public class Program
 {
     // Performs a basic mathematical operation between two numbers
@@ -303,5 +303,4 @@ public class Program
         }
     }
 }
-//Creator: Francesco Ciorli
-//Credits: Francesco Ciorli
+//Creator: PsHyCo71
