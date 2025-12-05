@@ -303,5 +303,4 @@ public class Program
         }
     }
 }
-//Creator: Francesco Ciorli
-//Credits: Francesco Ciorli
+//Creator: PsHyCo71
