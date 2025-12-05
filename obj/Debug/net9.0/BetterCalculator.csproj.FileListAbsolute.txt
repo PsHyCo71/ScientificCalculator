@@ -12,3 +12,4 @@ c:\Users\utente\Documents\Francesco\Coding\Progetti\BetterCalculator\obj\Debug\n
 c:\Users\utente\Documents\Francesco\Coding\Progetti\BetterCalculator\obj\Debug\net9.0\BetterCalculator.pdb
 c:\Users\utente\Documents\Francesco\Coding\Progetti\BetterCalculator\obj\Debug\net9.0\BetterCalculator.genruntimeconfig.cache
 c:\Users\utente\Documents\Francesco\Coding\Progetti\BetterCalculator\obj\Debug\net9.0\ref\BetterCalculator.dll
+C:\Users\utente\Documents\Francesco\Coding\Progetti\BetterCalculator\obj\Debug\net9.0\BetterCalculator.sourcelink.json
