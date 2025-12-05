@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 public class Program
 {
     // Performs a basic mathematical operation between two numbers
