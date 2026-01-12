@@ -1,5 +1,4 @@
 # Ignore build output folders
 bin/
 obj/
-BetterCalculator.sln
 BetterCalculator.pdb
