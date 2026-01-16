@@ -2,7 +2,9 @@
 
   <PropertyGroup>
     <OutputType>Exe</OutputType>
+    <AssemblyName>ScientificCalculator</AssemblyName>
     <TargetFramework>net9.0</TargetFramework>
+    <RootNamespace>ScientificCalculator</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
   </PropertyGroup>
